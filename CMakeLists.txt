@@ -6,3 +6,9 @@ set(CMAKE_CXX_STANDARD 98)
 add_executable(cpp_08_00
         ex00/main.cpp
         )
+
+add_executable(cpp_08_01
+        ex01/main.cpp
+        ex01/Span.cpp
+        ex01/Span.hpp
+        )
