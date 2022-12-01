@@ -12,3 +12,7 @@ add_executable(cpp_08_01
         ex01/Span.cpp
         ex01/Span.hpp
         )
+
+add_executable(cpp_08_02
+        ex02/main.cpp
+        )
